@@ -1,12 +1,12 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://afanta-video-chat.herokuapp.com/parse",
+    "appId": "APPLICATION_ID",
+    "masterKey": "MASTER_KEY",
+    "appName": "Afanta Video Chat",
     "iconName": "",
-    "primaryBackgroundColor": "",
-    "secondaryBackgroundColor": ""
+    "primaryBackgroundColor": "#EFAB66",
+    "secondaryBackgroundColor": "#fff"
   }],
   "users": [
     {
