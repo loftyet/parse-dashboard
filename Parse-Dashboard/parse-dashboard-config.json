@@ -8,5 +8,16 @@
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
   }],
+  "users": [
+    {
+    "user":"afanta-video-chat-user-0",
+    "pass":"afatina-video-chat-pwd"
+    },
+    {
+    "user":"afanta-video-chat-user-1",
+    "pass":"afatina-video-chat-pwd"
+    }
+    ],
+  "trustProxy": 1,
   "iconsFolder": "icons"
 }
