@@ -1,19 +1,19 @@
 {
   "apps": [{
-    "serverURL": "http://120.79.35.165/parse",
-    "appId": "Y60tKW0HxA1NyQVM",
-    "masterKey": "QqqNc2Dq8tvszFzV",
-    "appName": "Afanta Video Chat",
+    "serverURL": "https://afanta-parse-playground.herokuapp.com/parse",
+    "appId": "APPLICATION_ID",
+    "masterKey": "MASTER_KEY",
+    "appName": "MyDigitalCopy",
     "iconName": ""
   }],
   "users": [
     {
-    "user":"afanta-video-chat-user-0",
-    "pass":"afatina-video-chat-pwd"
+    "user":"MyDigitalCopy-user-0",
+    "pass":"MyDigitalCopy-user-pwd"
     },
     {
-    "user":"afanta-video-chat-user-1",
-    "pass":"afatina-video-chat-pwd"
+    "user":"MyDigitalCopy-user-1",
+    "pass":"MyDigitalCopy-user-pwd"
     }
     ],
   "trustProxy": 1,
