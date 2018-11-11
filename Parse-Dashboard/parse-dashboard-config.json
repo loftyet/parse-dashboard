@@ -17,5 +17,6 @@
     }
     ],
   "trustProxy": 1,
+  "allowInsecureHTTP": true,
   "iconsFolder": "icons"
 }
